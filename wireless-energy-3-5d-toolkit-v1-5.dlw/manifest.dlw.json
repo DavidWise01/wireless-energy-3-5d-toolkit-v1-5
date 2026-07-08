@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-WIRELESS_ENERGY_3_5D_TOOLKIT_V1_5",
+  "name": "WIRELESS ENERGY 3.5D ENGINE V1.5 · WIR",
+  "universe": "HEÚREMA",
+  "moniker": "⟦WIRELESS ENERGY 3.5D ENGINE V1.5 · WIR:wireless-energy-3-5d-toolkit-v1-5:b5595f⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "b5595fd493b26b50cc6710ce3bdbe373a6d9ed274a08142bee8bcd0de28b5bba",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
