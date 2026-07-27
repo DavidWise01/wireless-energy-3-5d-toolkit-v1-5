@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 258
 slug  : wireless-energy-3-5d-toolkit-v1-5
-seal  : b5595fd493b26b50cc6710ce3bdbe373a6d9ed274a08142bee8bcd0de28b5bba
-prev  : b3ceb424e039154908b952d834dbdf87da6091053a474da34c4de3ecce91f50f
-link  : 421d3c6479d9a59d44ae01917adad2d42f6bba058eaf3cca01962425c8ef46e7
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 105d45b9b7948f923884d4d82cf3f932db069234974fc7c3088412435e1c9a4c
+prev  : 774fe2b52363101927b2ac45fafd07d0d3117f2bb8e4a78caf225877149f419c
+link  : 3e2d99d79d35ea09d073e2a08f0420ebb755eeb4f08c2c3f01e127de519af787
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
